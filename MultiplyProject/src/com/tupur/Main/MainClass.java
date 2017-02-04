@@ -18,7 +18,7 @@ public class MainClass {
 	      }
 		 System.out.println(result.wasSuccessful());
 		 
-		 System.out.println("test 1");
+		 //System.out.println("test 1");
 		 
 		 CalculatorClass ob=new CalculatorClass();
 		 
