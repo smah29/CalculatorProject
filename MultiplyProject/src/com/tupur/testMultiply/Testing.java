@@ -40,8 +40,8 @@ public class Testing {
 	}
 	@Test
 	public void testPositiveDiv() throws NegativeNumException {
-		ob.divide(15, 5);
-		assertEquals(3, ob.getDiv());
+		ob.divide(20, 5);
+		assertEquals(4, ob.getDiv());
 
 }
 	@Test(expected=ArithmeticException.class)
