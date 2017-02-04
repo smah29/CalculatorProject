@@ -29,7 +29,9 @@ public class MainClass {
 		 System.out.println(ob.getMul());
 		 ob.divide(15, 5);
 		 System.out.println(ob.getDiv());
+		 
 		 System.out.println("Test 1");
+		 System.out.println("Test 2");
 		 
 		
 	}
