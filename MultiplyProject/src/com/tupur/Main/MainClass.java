@@ -18,7 +18,7 @@ public class MainClass {
 	      }
 		 System.out.println(result.wasSuccessful());
 		 
-		 //System.out.println("test 1");
+		 syso
 		 
 		 CalculatorClass ob=new CalculatorClass();
 		 
@@ -34,7 +34,7 @@ public class MainClass {
 		 ob.divide(15, 5);
 		 System.out.println(ob.getDiv());
 		 
-		 
+		 System.out.println("hi last change");
 		 
 		
 	}
