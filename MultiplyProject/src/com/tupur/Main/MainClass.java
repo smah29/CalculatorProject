@@ -18,6 +18,8 @@ public class MainClass {
 	      }
 		 System.out.println(result.wasSuccessful());
 		 CalculatorClass ob=new CalculatorClass();
+		 System.out.println("Test 1");
+		 System.out.println("Test 2");
 		 ob.divide(3, 0);
 		 System.out.println(ob.getDiv());
 			ob.divide(-6, 2);
